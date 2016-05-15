@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Curse.Properties
+namespace CourseWork.Properties
 {
 
 
